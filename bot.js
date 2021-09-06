@@ -1,4 +1,3 @@
-
 /* Copyright (C) 2020 Yusuf Usta.
 
 Licensed under the  GPL-3.0 License;
@@ -137,7 +136,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Venom Running! 😎')
+            chalk.green.bold('Pikachu Running! 😎')
         );
     });
     
