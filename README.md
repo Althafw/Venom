@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Venom+WA+Bot+repo;Created+by+Althafw;This+is+the+Best++Bgm+bot;With+tons+of+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Venom+WA+Bot+repo;Created+by+allu+venom;This+is+the+Best++Bgm+bot;With+tons+of+features)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -9,7 +9,7 @@
 <img src="Venom.jpg" width="250" height="200"/>
 </p>
  <p align="center">
-<a href="#"><img title="AMEERKALLUMTHODI" src="https://img.shields.io/badge/Althafw-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="AMEERKALLUMTHODI" src="https://img.shields.io/badge/Althaf-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/Althafw"><img title="Author" src="https://img.shields.io/badge/Author-Althafw/Venom?color=blue&style=for-the-badge&logo=whatsapp"></a>
