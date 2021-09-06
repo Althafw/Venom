@@ -12,11 +12,11 @@
 <a href="#"><img title="AMEERKALLUMTHODI" src="https://img.shields.io/badge/Althaf-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Althafw"><img title="Author" src="https://img.shields.io/badge/Author-Althafw/Venom?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/Venom?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Althafw">Althafw</a> to make it public
+Project created by <a href="https://github.com/ameer-kallumthodi">ameer-kallumthodi</a> to make it public
     <br>
        | © |
         Reserved |
@@ -37,9 +37,9 @@ Project created by <a href="https://github.com/Althafw">Althafw</a> to make it p
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Althafw&show_icons=true&theme=dark&locale=en" alt="Althafw" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameer-kallumthodi&show_icons=true&theme=dark&locale=en" alt="ameer-kallumthodi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Althafw&theme=dark" alt="Althafw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-kallumthodi&theme=dark" alt="ameer-kallumthodi" /></p>
 </p>
 
 
@@ -68,7 +68,7 @@ Click Venom logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Althafw/Venom.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/Venom.git)
      </div>
 <br>
 <br >
@@ -83,7 +83,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Althafw/Venom
+$ git clone https://github.com/ameer-kallumthodi/Venom
 $ cd Venom
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -93,7 +93,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Althafw/Venom
+$ git clone https://github.com/ameer-kallumthodi/Venom
 $ cd Venom
 $ chmod +x *
 $ npm i
@@ -114,9 +114,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Althafw](https://github.com/Althafw.png?size=100)](https://github.com/Althafw) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
+  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
 ----|----|----
-[Althafw](https://github.com/Althafw)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
+[ameer-kallumthodi](https://github.com/ameer-kallumthodi)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
