@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Venom+WA+Bot+repo;Created+by+allu+venom;This+is+the+Best++Bgm+bot;With+tons+of+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Venom+WA+Bot+repo;Created+by+allu+pikachu;This+is+the+Best++Bgm+bot;With+tons+of+features)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -9,10 +9,10 @@
 <img src="Venom.jpg" width="250" height="200"/>
 </p>
  <p align="center">
-<a href="#"><img title="AMEERKALLUMTHODI" src="https://img.shields.io/badge/Althaf-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="AMEERKALLUMTHODI" src="https://img.shields.io/badge/Venom-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/Venom?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -55,7 +55,7 @@ Click WA logo to Join Support Group 👇
 ## 
   <h3 align="center">📢 Support Group 2:</h3>
 <p align="center">
-Click Venom logo to Join Support Group 2👇
+Click pikachu logo to Join Support Group 2👇
     <br>
 <br>
   <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
@@ -68,7 +68,7 @@ Click Venom logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/Venom.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu.git)
      </div>
 <br>
 <br >
@@ -83,8 +83,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/Venom
-$ cd Venom
+$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ cd pikachu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -93,8 +93,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/Venom
-$ cd Venom
+$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ cd pikachu
 $ chmod +x *
 $ npm i
 $ node qr.js
